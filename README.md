@@ -33,15 +33,13 @@ A Fully deployed e-commerce website
 - Database Seeder: Easily populate the database with sample products and users.
 
 
+#### Creating a Pull Request (PR)
+- Visit your forked repository on GitHub.
+- Switch to the branch containing your changes.
+- Click on the "New Pull Request" button.
+- Provide a clear title and description for your pull request, explaining the purpose and scope of your changes.
+- Submit the pull request.
 
 
-- Register or Login with Email
-- Register or Login with Google
-- Register or Login Facebook
-- Update Password
-- Forgot Password
-- Reset Password
-- Update Password
-- Get Any User Profile
 
 
